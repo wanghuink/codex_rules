@@ -1,0 +1,6 @@
+- Never silently discard reads
+- Always log filtering statistics
+- All thresholds must be configurable
+- All reference coordinates must be documented
+- Never hardcode sample names
+- All scripts must support --help
